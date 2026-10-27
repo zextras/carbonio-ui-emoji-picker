@@ -1,0 +1,17 @@
+# SPDX-FileCopyrightText: 2026 Zextras <https://www.zextras.com>
+
+# SPDX-License-Identifier: CC0-1.0
+/node_modules/
+/pkg/
+/build/
+/sdk/
+/dist/
+/lib/
+/lib-esm/
+/.idea
+/e2e/output/
+/junit.xml
+/coverage/
+.DS_Store
+zextras-carbonio-*.tgz
+/temp
